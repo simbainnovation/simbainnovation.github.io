@@ -1,12 +1,12 @@
 # Basic
-title: 潘柏信
-subtitle: 个人站
-description: 欢迎来到我的个人站~
+title: Simba
+subtitle: Innovation
+description: Cloud Native
 # 头像里面的标题
-avatarTitle: leopardpan
+avatarTitle: Amazon Web Service
 # 头像里面的描述
-avatarDesc: iOS / 机器学习
-url: "http://baixin.io"
+avatarDesc: Technology
+url: "http://simbainnovation.github.io"
 
 # Comment
 comment:
@@ -16,13 +16,13 @@ comment:
 
 # Social
 social:
-    weibo: 5366874726 
-    github: leopardpan
+    #weibo: 5366874726 
+    github: simbainnovation
     # zhihu: panpanleopard
     # juejin: xxx
-    jianshu: 2ada30d8d0f7
+    #jianshu: 2ada30d8d0f7
     # twitter: 
-    mail: leopardpan@icloud.com
+    mail: mingye.xia@simbainno.com
 
 
 # 百度统计 
@@ -58,13 +58,13 @@ cover_color: clear
 
 # The blog button should not be removed.
 blog_button:
-    title: 博客主页
+    title: 公司主页
 
 # Navigation buttons in the front page.s
 nav:
-    - {title: 所有文章, description: archive, url: '/archive'}   
+    - {title: 新闻大事, description: archive, url: '/archive'}   
     - {title: 标签, description: tags, url: '/tags'}      
-    - {title: 关于我, description: about, url: '/about'}      
+    - {title: 招兵买马, description: about, url: '/about'}      
     
 
 # Pagination

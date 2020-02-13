@@ -5,6 +5,6 @@ date: 2017-01-03
 tag: iOS
 ---
 
-![](/images/posts/1)
+![](/images/posts/1.jpeg)
 <br/>
-![](/images/posts/2)
+![](/images/posts/2.jpeg)
